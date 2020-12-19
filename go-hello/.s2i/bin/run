@@ -1,0 +1,3 @@
+echo "Customized Spanish version of the run script"
+
+exec /opt/app-root/app --lang es
